@@ -1,1 +1,2 @@
 # Speech-Reading-with-Deep-Neural-Networks
+A machine learning model that can effectively identify spoken words from visual cues of lip movements in a video. This model can potentially enhance speech recognition accuracy for individuals with hearing impairments and in environments where audio-based speech recognition systems may not be effective due to noise interference. The ultimate goal is to provide a more accurate and reliable form of speech recognition that can improve communication accessibility for individuals in a variety of settings.
